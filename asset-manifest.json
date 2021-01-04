@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/http//Irvingouj.github.io/shopifyApplication/static/css/main.b5508057.chunk.css",
-    "main.js": "/http//Irvingouj.github.io/shopifyApplication/static/js/main.e9e156e3.chunk.js",
-    "main.js.map": "/http//Irvingouj.github.io/shopifyApplication/static/js/main.e9e156e3.chunk.js.map",
-    "runtime-main.js": "/http//Irvingouj.github.io/shopifyApplication/static/js/runtime-main.bca4c7da.js",
-    "runtime-main.js.map": "/http//Irvingouj.github.io/shopifyApplication/static/js/runtime-main.bca4c7da.js.map",
-    "static/js/2.aa52b65b.chunk.js": "/http//Irvingouj.github.io/shopifyApplication/static/js/2.aa52b65b.chunk.js",
-    "static/js/2.aa52b65b.chunk.js.map": "/http//Irvingouj.github.io/shopifyApplication/static/js/2.aa52b65b.chunk.js.map",
-    "static/js/3.3aea4d0a.chunk.js": "/http//Irvingouj.github.io/shopifyApplication/static/js/3.3aea4d0a.chunk.js",
-    "static/js/3.3aea4d0a.chunk.js.map": "/http//Irvingouj.github.io/shopifyApplication/static/js/3.3aea4d0a.chunk.js.map",
-    "index.html": "/http//Irvingouj.github.io/shopifyApplication/index.html",
-    "static/css/main.b5508057.chunk.css.map": "/http//Irvingouj.github.io/shopifyApplication/static/css/main.b5508057.chunk.css.map",
-    "static/js/2.aa52b65b.chunk.js.LICENSE.txt": "/http//Irvingouj.github.io/shopifyApplication/static/js/2.aa52b65b.chunk.js.LICENSE.txt"
+    "main.css": "/shopifyApplication/static/css/main.b5508057.chunk.css",
+    "main.js": "/shopifyApplication/static/js/main.e9e156e3.chunk.js",
+    "main.js.map": "/shopifyApplication/static/js/main.e9e156e3.chunk.js.map",
+    "runtime-main.js": "/shopifyApplication/static/js/runtime-main.bf32b6d2.js",
+    "runtime-main.js.map": "/shopifyApplication/static/js/runtime-main.bf32b6d2.js.map",
+    "static/js/2.aa52b65b.chunk.js": "/shopifyApplication/static/js/2.aa52b65b.chunk.js",
+    "static/js/2.aa52b65b.chunk.js.map": "/shopifyApplication/static/js/2.aa52b65b.chunk.js.map",
+    "static/js/3.3aea4d0a.chunk.js": "/shopifyApplication/static/js/3.3aea4d0a.chunk.js",
+    "static/js/3.3aea4d0a.chunk.js.map": "/shopifyApplication/static/js/3.3aea4d0a.chunk.js.map",
+    "index.html": "/shopifyApplication/index.html",
+    "static/css/main.b5508057.chunk.css.map": "/shopifyApplication/static/css/main.b5508057.chunk.css.map",
+    "static/js/2.aa52b65b.chunk.js.LICENSE.txt": "/shopifyApplication/static/js/2.aa52b65b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bca4c7da.js",
+    "static/js/runtime-main.bf32b6d2.js",
     "static/js/2.aa52b65b.chunk.js",
     "static/css/main.b5508057.chunk.css",
     "static/js/main.e9e156e3.chunk.js"
